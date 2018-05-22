@@ -1,5 +1,5 @@
 {
-    "name": "webpack-development",
+    "name": "webpack-hot-module-replacement",
     "version": "1.0.0",
     "description": "",
     "private": true,
