@@ -11,7 +11,7 @@ Enabling HMR
 
 -(TODO)If you took the route of using webpack-dev-middleware instead of webpack-dev-server, please use the webpack-hot-middleware package to enable HMR on your custom server or application:
 https://github.com/webpack-contrib/webpack-hot-middleware
-
+see branch: hmr-hotMiddleware
 here just output to browser console, TODO: browser auto refresh.
 
 
